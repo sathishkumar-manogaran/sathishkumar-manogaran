@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to Go
 - 💬 Ask me about Go Modules, Spring Framework and Microservices
 - 📫 How to reach me: sathishkumar.manogaran@gmail.com
-- 😄 Pronouns: Satz
+- 😄 Pronouns: He | Him
 
